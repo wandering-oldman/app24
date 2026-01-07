@@ -3,19 +3,10 @@
 #UK
 
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264396&extension=m3u8
-
+http://JiiiIIIlllLLav.funtogether.xyz:8080/live/hu1pQJ4cC6/55j7aagiRs/73649?play_token=BtpQVGeSbP
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=1903770&extension=m3u8
-
+http://JiiiIIIlllLLav.funtogether.xyz:8080/live/hu1pQJ4cC6/55j7aagiRs/73649.m3u8
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://195.128.27.141:80/play/live.php?mac=00:1A:79:24:1B:18&stream=264396&extension=m3u8
-
+http://exm3u.123tv.to:8080/live/hu1pQJ4cC6/55j7aagiRs/73649?play_token=BtpQVGeSbP
 #EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:43:68:50&stream=1903770&extension=m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://tv.greatstar.me:80/play/live.php?mac=A0:BB:3E:4D:2B:D3&stream=1903776&extension=m3u8
-
-#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
-http://alpha-2ott.me:80/play/live.php?mac=A0:BB:3E:43:68:50&stream=1032529&extension=m3u8
+http://exm3u.123tv.to:8080/live/hu1pQJ4cC6/55j7aagiRs/73649.m3u8
